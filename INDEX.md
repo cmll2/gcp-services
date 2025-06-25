@@ -7,7 +7,7 @@
 | Automl        | Machine Learning, AutoML, No Code, Custom Models, Vision, NLP, Tabular Data, GCP, Managed Services | [VertexAI/automl.md](VertexAI/automl.md) |
 | Bigquery      | Data Warehouse, Analytics, SQL, ETL, Serverless, Managed Services, BI | [BigQuery/bigquery.md](BigQuery/bigquery.md) |
 | Cloudfunctions | Serverless, FaaS, Event-Driven, Microservices, HTTP, Pub/Sub, GCP, Managed Services, Stateless, Automation | [CloudFunctions/cloudfunctions.md](CloudFunctions/cloudfunctions.md) |
-| Cloudlogging  | Logging, Observabilité, Logs, Monitoring, Alerting, GCP, Managed Services, Audit, Stackdriver | [CloudLogging.md/cloudlogging.md](CloudLogging/cloudlogging.md) |
+| Cloudlogging  | Logging, Observabilité, Logs, Monitoring, Alerting, GCP, Managed Services, Audit, Stackdriver | [CloudLogging/cloudlogging.md](CloudLogging/cloudlogging.md) |
 | Cloudmonitoring | Observabilité, Metrics, Logs, Dashboards, Alerts, GCP, Managed Services, Monitoring | [CloudMonitoring/cloudmonitoring.md](CloudMonitoring/cloudmonitoring.md) |
 | Cloudrun      | Serverless, Containers, Microservices, HTTP, Autoscaling, CI/CD, GCP, Managed Services, Stateless | [CloudRun/cloudrun.md](CloudRun/cloudrun.md) |
 | Computeengine | VM, IaaS, Virtual Machines, Scalable, Custom Images, GPU, GCP, Managed Services, Autoscaling, Networking | [Engines/computeengine.md](Engines/computeengine.md) |

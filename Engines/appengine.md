@@ -56,7 +56,7 @@ Caractéristiques principales :
 1. **Code source** : Stocké sur [Cloud Source Repositories](../CloudSourceRepositories/cloudsourcerepositories.md) ou GitHub.
 2. **Déploiement** : Application déployée sur App Engine (standard ou flexible).
 3. **Base de données** : Connexion à [Cloud SQL](../SQL/sql.md), [Firestore](../Firestore/firestore.md), etc.
-4. **Stockage** : Utilisation de [Cloud Storage](../CloudStorage/cloudstorage.md).
+4. **Stockage** : Utilisation de [Cloud Storage](../Storage/storage.md).
 5. **Monitoring** : Supervision via [Cloud Monitoring](../CloudMonitoring/cloudmonitoring.md) et [Cloud Logging](../CloudLogging/cloudlogging.md).
 
 ---

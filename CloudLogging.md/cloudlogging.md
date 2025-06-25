@@ -54,7 +54,7 @@ Caractéristiques principales :
 1. **Sources** : [Compute Engine](../ComputeEngine/computeengine.md), [GKE](../KubernetesEngine/kubernetesengine.md), [App Engine](../AppEngine/appengine.md), etc.
 2. **Collecte** : Logs collectés automatiquement ou via API/agents.
 3. **Stockage** : Organisation dans des log buckets avec conservation personnalisée.
-4. **Export** : Sinks vers [BigQuery](../BigQuery/bigquery.md), [Cloud Storage](../CloudStorage/cloudstorage.md), [Pub/Sub](../PubSub/pubsub.md).
+4. **Export** : Sinks vers [BigQuery](../BigQuery/bigquery.md), [Cloud Storage](../Storage/storage.md), [Pub/Sub](../PubSub/pubsub.md).
 5. **Monitoring** : Création de métriques et alertes à partir des logs.
 
 ---

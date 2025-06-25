@@ -60,7 +60,7 @@ Caractéristiques principales :
 
 ## 🧑‍🔬 Exemple d’Architecture : Analyse avec BigQuery
 
-1. **Source de données** : [Cloud Storage](../CloudStorage/cloudstorage.md) ou [Pub/Sub](../PubSub/pubsub.md)
+1. **Source de données** : [Cloud Storage](../Storage/storage.md) ou [Pub/Sub](../PubSub/pubsub.md)
 2. **Ingestion** : [Dataflow](../Dataflow/dataflow.md) ou API de streaming
 3. **Stockage** : Tables BigQuery partitionnées
 4. **Analyse** : SQL ou BigQuery ML

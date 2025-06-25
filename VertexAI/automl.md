@@ -49,7 +49,7 @@ Caractéristiques principales :
 
 ## 🧑‍🔬 Exemple d’Architecture : AutoML Vision
 
-1. **Source de données** : Chargement des images dans un bucket [Cloud Storage](../CloudStorage/cloudstorage.md).
+1. **Source de données** : Chargement des images dans un bucket [Cloud Storage](../Storage/storage.md).
 2. **Entraînement** : Création et entraînement d'un modèle avec AutoML Vision.
 3. **Évaluation** : Analyse des performances du modèle (précision, rappel).
 4. **Déploiement** : Déploiement du modèle sur un endpoint pour l'inférence.

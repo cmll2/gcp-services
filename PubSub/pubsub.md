@@ -60,7 +60,7 @@ Caractéristiques principales :
 1. **Source d'événements** : [IoT Core](../IoTCore/iotcore.md) ou application externe.
 2. **Topic Pub/Sub** : Réception des messages.
 3. **Pipeline de traitement** : [Dataflow](../Dataflow/dataflow.md) pour transformation et enrichissement.
-4. **Stockage** : [BigQuery](../BigQuery/bigquery.md) ou [Cloud Storage](../CloudStorage/cloudstorage.md).
+4. **Stockage** : [BigQuery](../BigQuery/bigquery.md) ou [Cloud Storage](../Storage/storage.md).
 5. **Visualisation** : [Looker](../Looker/looker.md) ou [Data Studio](../DataStudio/datastudio.md).
 
 ---

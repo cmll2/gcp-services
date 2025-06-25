@@ -43,22 +43,6 @@ Chaque service est documenté dans un fichier Markdown individuel avec :
 
 ---
 
-## 🗂️ Contenu disponible
-
-- `VertexAI/vertex-ai.md`
-- `BigQuery/bigquery.md`
-- `Dataflow/dataflow.md`
-- `CloudFunctions/cloud-functions.md`
-- `PubSub/pubsub.md`
-- `Storage/cloud-storage.md`
-
----
-
-## 🧠 À propos de l'auteur
-Ces notes sont rédigées à la main dans le cadre de la préparation à la certification. Elles sont ouvertes à contributions.
-
----
-
 ## ✅ TODOs à venir
 - [ ] Ajouter un script d’indexation automatique des mots-clés
 - [ ] Ajouter des schémas d’architecture
